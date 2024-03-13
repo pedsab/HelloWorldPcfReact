@@ -131,6 +131,6 @@
   </data>
   <data name="numberOfFaces_Desc_Key" xml:space="preserve">
     <value>NumberOfFaces</value>
-    <comment>Display text for NumberOfFaces description</comment>
+    <comment>Display text for NumberOfFaces description...</comment>
   </data>
 </root>
